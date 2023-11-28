@@ -1,0 +1,15 @@
+{
+  "name": "teste2e",
+  "version": "1.0.0",
+  "description": "test e2e using testcafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "dscxlly",
+  "license": "ISC"
+}
